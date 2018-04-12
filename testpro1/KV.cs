@@ -8,6 +8,7 @@ namespace Winsion.CT.Data
     {
 //3
 //5
+//切换分支1
         public string K { get; set; }
         public string V { get; set; }
     }
